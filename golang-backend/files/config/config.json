@@ -1,0 +1,4 @@
+{
+    "db_connection":"root:@tcp(wi-db:3306)/wedding_invitation?parseTime=true&loc=Local",
+    "running_port":":3020"
+}
